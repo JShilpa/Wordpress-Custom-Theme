@@ -1,0 +1,2 @@
+any theme to be accepted, it should have style.css and index.php.
+close html and body tag in footer.php
